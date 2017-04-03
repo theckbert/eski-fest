@@ -3,9 +3,10 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Style Tyle</title>
-<script src="https://gist.github.com/theckbert/cd69cd97956f6bb0dcad8013058f688f.js"></script>
+
 </head>
 
 <body>
+<script src="https://gist.github.com/theckbert/cd69cd97956f6bb0dcad8013058f688f.js"></script>
 </body>
 </html>
