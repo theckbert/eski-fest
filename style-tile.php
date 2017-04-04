@@ -12,7 +12,7 @@
 
 <body>
 <div class="container">
-	<h1>Eski Fest: Sublime</h1>
+	<h1>Eski Fest: Git Web</h1>
 	
     	<div class="text-center lineup alphabetical">
             <a href=""><span class="name">A$AP Mob</span></a>
