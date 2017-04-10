@@ -7,7 +7,6 @@
 <title>Style Tyle</title>
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
 <link rel="stylesheet" type="text/css" href="css/eskiboy.css" />
-<title>Style Tyle</title>
 </head>
 
 <body>
