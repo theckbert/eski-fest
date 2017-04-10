@@ -12,7 +12,7 @@
 
 <body>
 <div class="container">
-	<h1>Eski Fest: Git Web</h1>
+	<h1>Eski Fest: Git Desktop</h1>
 	
     	<div class="text-center lineup alphabetical">
             <a href=""><span class="name">A$AP Mob</span></a>
@@ -33,6 +33,7 @@
             <a href=""><span class="name">Chance The Rapper</span></a>
             <a href=""><span class="name">Chase and Status</span></a>
             <a href=""><span class="name">Chip</span></a>
+            <a href=""><span class="name">Clams Casino</span></a>
             <a href=""><span class="name">D Double E</span></a>
             <a href=""><span class="name">Danny Brown</span></a>
             <a href=""><span class="name">Danny Seth</span></a>
