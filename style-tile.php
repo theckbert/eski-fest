@@ -12,8 +12,10 @@
 <body>
 <div class="container">
 	<h1>Eski Fest: Git Desktop</h1>
+      <!--<div class="glitch" data-text="Eski Fest">Eski Fest</div> -->
 	
-    	<div class="text-center lineup alphabetical">
+    	<!--<div class="text-center lineup alphabetical">-->
+      <div class="lineup alphabetical">
             <a href=""><span class="name">A$AP Mob</span></a>
             <a href=""><span class="name">Abstrakt Sonance</span></a>
             <a href=""><span class="name">Ace Hood</span></a>
@@ -24,6 +26,7 @@
             <a href=""><span class="name">Baauer</span></a>
             <a href=""><span class="name">Benga</span></a>
             <a href=""><span class="name">Big H</span></a>
+            <a href=""><span class="name">Big Narstie</span></a>
             <a href=""><span class="name">Big Zuu</span></a>
             <a href=""><span class="name">Bonkaz</span></a>
             <a href=""><span class="name">British Man Dem</span></a>
@@ -39,6 +42,7 @@
             <a href=""><span class="name">Dave</span></a>
             <a href=""><span class="name">Devlin</span></a>
             <a href=""><span class="name">Diplo</span></a>
+            <a href=""><span class="name">Disclosure</span></a>
             <a href=""><span class="name">Dizzee Rascal</span></a>
             <a href=""><span class="name">Drake</span></a>
             <a href=""><span class="name">Faze Miyake</span></a>
@@ -53,6 +57,7 @@
             <a href=""><span class="name">Hudson Mohawke</span></a>
             <a href=""><span class="name">J Hus</span></a>
             <a href=""><span class="name">Jammer</span></a>
+            <a href=""><span class="name">Jamie XX</span></a>     
             <a href=""><span class="name">Jammz</span></a>
             <a href=""><span class="name">Jayemkayem</span></a>
             <a href=""><span class="name">JayKae</span></a>
@@ -76,22 +81,22 @@
             <a href=""><span class="name">Mr Carmack</span></a>
             <a href=""><span class="name">Ms Banks</span></a>
             <a href=""><span class="name">Nas</span></a>
-            <a href=""><span class="name">Nines</span></a>
+            <a href=""><span class="name">Nines*</span></a>
             <a href=""><span class="name">Novelist</span></a>
             <a href=""><span class="name">P Money</span></a>
             <a href=""><span class="name">Pete Tong</span></a>
             <a href=""><span class="name">Pharrell Williams</span></a>
             <a href=""><span class="name">Plastician</span></a>
-            <a href=""><span class="name">Polonis</span></a>
+            <a href=""><span class="name">Polonis*</span></a>
             <a href=""><span class="name">Preditah</span></a>
             <a href=""><span class="name">President T</span></a>
             <a href=""><span class="name">Pusha T</span></a>
             <a href=""><span class="name">Rae Sremmurd</span></a>
             <a href=""><span class="name">RL Grime</span></a>
             <a href=""><span class="name">Rocks FOE</span></a>
-            <a href=""><span class="name">RudeKid</span></a>
+            <a href=""><span class="name">Rude Kid</span></a>
             <a href=""><span class="name">Rudimental</span></a>
-            <a href=""><span class="name">Ruff Sqwad</span></a>
+            <a href=""><span class="name">Ruff Sqwad*</span></a>
             <a href=""><span class="name">Run the Jewels</span></a>
             <a href=""><span class="name">Section Boyz</span></a>
             <a href=""><span class="name">Sir Spyro</span></a>
