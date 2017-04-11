@@ -113,6 +113,7 @@
             <a href=""><span class="name">Tim Westwood</span></a>
             <a href=""><span class="name">Tre Mission</span></a>
             <a href=""><span class="name">Trends</span></a>
+            <a href=""><span class="name">Wale</span></a>
             <a href=""><span class="name">Wiley</span></a>
             <a href=""><span class="name">Wretch 32</span></a>
             <a href=""><span class="name">Young Thug</span></a>
