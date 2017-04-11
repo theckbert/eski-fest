@@ -14,11 +14,10 @@
 	<h1>Eski Fest: Git Desktop</h1>
       <!--<div class="glitch" data-text="Eski Fest">Eski Fest</div> -->
 	
-    	<!--<div class="text-center lineup alphabetical">-->
-      <div class="lineup alphabetical">
+    	<div class="text-center lineup alphabetical">
+      <!--<div class="lineup alphabetical">-->
             <a href=""><span class="name">A$AP Mob</span></a>
             <a href=""><span class="name">Abstrakt Sonance</span></a>
-            <a href=""><span class="name">Ace Hood</span></a>
             <a href=""><span class="name">AJ Tracey</span></a>
             <a href=""><span class="name">Alison Wonderland</span></a>
             <a href=""><span class="name">AlunaGeorge</span></a>
@@ -29,17 +28,19 @@
             <a href=""><span class="name">Big Narstie</span></a>
             <a href=""><span class="name">Big Zuu</span></a>
             <a href=""><span class="name">Bonkaz</span></a>
-            <a href=""><span class="name">British Man Dem</span></a>
+            <a href=""><span class="name">British Man Dem*</span></a>
             <a href=""><span class="name">Bugzy Malone</span></a>
             <a href=""><span class="name">Cadet</span></a>
             <a href=""><span class="name">Chance The Rapper</span></a>
             <a href=""><span class="name">Chase and Status</span></a>
+            <a href=""><span class="name">Childish Gambino</span></a>
             <a href=""><span class="name">Chip</span></a>
             <a href=""><span class="name">Clams Casino</span></a>
             <a href=""><span class="name">D Double E</span></a>
             <a href=""><span class="name">Danny Brown</span></a>
             <a href=""><span class="name">Danny Seth</span></a>
             <a href=""><span class="name">Dave</span></a>
+            <a href=""><span class="name">Denzel Curry</span></a>
             <a href=""><span class="name">Devlin</span></a>
             <a href=""><span class="name">Diplo</span></a>
             <a href=""><span class="name">Disclosure</span></a>
@@ -50,22 +51,25 @@
             <a href=""><span class="name">Footsie</span></a>
             <a href=""><span class="name">FreezaChin</span></a>
             <a href=""><span class="name">Frisco</span></a>
-            <a href=""><span class="name">G Easy</span></a>
+            <a href=""><span class="name">Future</span></a>
+            <a href=""><span class="name">G Eazy</span></a>
             <a href=""><span class="name">Ghetts</span></a>
             <a href=""><span class="name">Giggs</span></a>
             <a href=""><span class="name">Hermitude</span></a>
             <a href=""><span class="name">Hudson Mohawke</span></a>
-            <a href=""><span class="name">J Hus</span></a>
-            <a href=""><span class="name">Jammer</span></a>
-            <a href=""><span class="name">Jamie XX</span></a>     
+            <a href=""><span class="name">Jack Dat</span></a>     
+            <a href=""><span class="name">Jamie XX</span></a>
+            <a href=""><span class="name">Jammer</span></a>     
             <a href=""><span class="name">Jammz</span></a>
             <a href=""><span class="name">Jayemkayem</span></a>
             <a href=""><span class="name">JayKae</span></a>
+            <a href=""><span class="name">J Hus</span></a>
             <a href=""><span class="name">JME</span></a>
             <a href=""><span class="name">Joker</span></a>
             <a href=""><span class="name">Jook</span></a>
             <a href=""><span class="name">Julie Adenuga</span></a>
             <a href=""><span class="name">Just Blaze</span></a>
+            <a href=""><span class="name">Kamakaze</span></a>
             <a href=""><span class="name">Kano</span></a>
             <a href=""><span class="name">Kanye West</span></a>
             <a href=""><span class="name">Kendrick Lamar</span></a>
@@ -80,7 +84,6 @@
             <a href=""><span class="name">MistaJam</span></a>
             <a href=""><span class="name">Mr Carmack</span></a>
             <a href=""><span class="name">Ms Banks</span></a>
-            <a href=""><span class="name">Nas</span></a>
             <a href=""><span class="name">Nines*</span></a>
             <a href=""><span class="name">Novelist</span></a>
             <a href=""><span class="name">P Money</span></a>
@@ -98,12 +101,14 @@
             <a href=""><span class="name">Rudimental</span></a>
             <a href=""><span class="name">Ruff Sqwad*</span></a>
             <a href=""><span class="name">Run the Jewels</span></a>
+            <a href=""><span class="name">Schoolboy Q</span></a>
             <a href=""><span class="name">Section Boyz</span></a>
             <a href=""><span class="name">Sir Spyro</span></a>
             <a href=""><span class="name">Skepta</span></a>
             <a href=""><span class="name">Skream</span></a>
             <a href=""><span class="name">Slimzee</span></a>
             <a href=""><span class="name">Stormzy</span></a>
+            <a href=""><span class="name">Tempa</span></a>
             <a href=""><span class="name">Tempa T</span></a>
             <a href=""><span class="name">Tim Westwood</span></a>
             <a href=""><span class="name">Tre Mission</span></a>
