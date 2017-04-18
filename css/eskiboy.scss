@@ -1,33 +1,49 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
-$light-blue: #e1f5fe;
+@import url('https://fonts.googleapis.com/css?family=Oswald:300,500,700');
+$light-blue: /*#e1f5fe 03a9f4*/ #509bf5;
+$dark-blue: #2d46b9;
 $white: #FFFFFF;
+$black: #2a2426;
+$mint: #9bf0e1;
+$pink: #ffcdd2;
 body{
   background:$light-blue;
   color:$white;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size:18px;
+}
+.description {
+  border-top:1px dashed $mint;
+  border-bottom:1px dashed $mint;
+}
+h4{
+  font-weight:300;
+  letter-spacing:2px;
+  text-transform: uppercase;
 }
 .lineup {
   a {
-    color:#03a9f4;
+    color:$white;
+    font-size:26px;
+    line-height: 40px;
     &:hover {
       text-decoration:none;
     }
     &::before {
      content: "\2666";
-     padding-right:15px;
-     color:#01579b;
+     padding-right:16px;
+     color:$mint;
     }
     &::after {
         content: "\2666";
         padding-left:15px;
-        margin-right:-14px;
-        color:#01579b;
+        margin-right:-17px;
+        color:$mint;
     }
     span {
       text-transform:uppercase;
       letter-spacing:2px;
-      font-weight:500;
+      font-weight:300;
       -webkit-transition: all .2s ease;
       -moz-transition: all .2s ease;
       transition: all .2s ease;
@@ -35,7 +51,7 @@ body{
       top:0px;
       background:none;
       &:hover {
-        color:$white;
+        color:$dark-blue;
         -webkit-transition: all .2s ease;
         -moz-transition: all .2s ease;
         transition: all .2s ease;
@@ -44,6 +60,32 @@ body{
       }
     }
   }
+}
+.left{
+  transform-origin: top right;
+  transform: rotate(-5deg);
+  height: 5px;
+  width: 50%;
+  background-color: black;
+  position: absolute;
+  top: 0;
+  box-shadow: 10px 10px 5px #888888;
+  z-index:-1;
+}
+.right{
+  left: 50%;
+  transform-origin: top left;
+  transform: rotate(5deg);
+  height: 5px;
+  width: 50%;
+  background-color: black;
+  position: absolute;
+  top: 0; 
+  z-index:-1;
+}
+.footer {
+  font-size:14px;
+  font-weight: 300;
 }
 
 /*ANIMATIONS*/
