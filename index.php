@@ -11,6 +11,9 @@
 
 <body>
 <!--<div class="left"></div><div class="right"></div>-->
+<div class="decoration-2"></div>
+<div class="decoration"></div>
+
 <div class="container">
       <div class="row">
             <div class="col-lg-12">
@@ -25,10 +28,20 @@
       </div>
 
       <div class="row">
-            <div class="col-lg-12 description">
-                  <h4 class="text-center">Grime Music &amp; Arts Celebration</h4>
+            <div class="col-lg-3 description">
+                  <h4 class="text-center">Toronto, Ontario</h4>
+            </div>
+            <div class="col-lg-3 description">
+                  <h4 class="text-center">New York, New York</h4>
+            </div>
+            <div class="col-lg-3 description">
+                  <h4 class="text-center">Chicago, Illinois</h4>
+            </div>
+            <div class="col-lg-3 description">
+                  <h4 class="text-center">London, England</h4>
             </div>
       </div>
+
 
 </div>
 
