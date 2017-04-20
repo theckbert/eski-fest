@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
-@import url('https://fonts.googleapis.com/css?family=Oswald:300,500,700');
+@import url('https://fonts.googleapis.com/css?family=Oswald:300');
 $light-blue: /*#e1f5fe 03a9f4*/ #509bf5;
 $dark-blue: #2d46b9;
 $white: #FFFFFF;
@@ -19,7 +19,8 @@ background-size: auto auto;
   color:$white;
   font-family: 'Oswald', sans-serif;
   font-size:18px;
-
+}
+p {
 }
 .decoration {
     background-color: transparent;
@@ -59,12 +60,36 @@ background-size: auto auto;
     opacity: 1;
     position:absolute;
 }
+.eski-menu{
+  border-radius: 0;
+  border:none;
+  border-bottom:4px solid $dark-blue;
+  background:$mint;
+    .navbar-nav {
+        li {
+          a {
+            color:$dark-blue;
+            text-transform: uppercase;
+            letter-spacing:1px;
+            &:hover {
+              background:$dark-blue;
+              color:$pink;
+            }
+          }
+        }
+      }
+    .active {
+    background:$pink;
+  }
+}
+.logo {
+  margin-top:0px;
+}
 .description {
   border-top:1px dashed $mint;
   border-bottom:1px dashed $mint;
 }
 h4{
-  font-weight:300;
   letter-spacing:2px;
   text-transform: uppercase;
 }
@@ -90,7 +115,6 @@ h4{
     span {
       text-transform:uppercase;
       letter-spacing:2px;
-      font-weight:300;
       -webkit-transition: all .2s ease;
       -moz-transition: all .2s ease;
       transition: all .2s ease;
@@ -130,9 +154,13 @@ h4{
   top: 0; 
   z-index:-1;
 }
+.centered {
+  float:none;
+  margin-left:auto;
+  margin-right:auto;
+}
 .footer {
   font-size:14px;
-  font-weight: 300;
 }
 
 /*ANIMATIONS*/
