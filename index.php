@@ -88,11 +88,13 @@
                         <a href=""><span class="name">Diplo</span></a>
                         <a href=""><span class="name">Disclosure</span></a>
                         <a href=""><span class="name">Dizzee Rascal</span></a>
+			<a href=""><span class="name">Donae'o</span></a>
                         <a href=""><span class="name">Drake</span></a>
                         <a href=""><span class="name">Faze Miyake</span></a>
                         <a href=""><span class="name">Fekky</span></a>
                         <a href=""><span class="name">Footsie</span></a>
                         <a href=""><span class="name">FreezaChin</span></a>
+			<a href=""><span class="name">Francis and the Lights</span></a>
                         <a href=""><span class="name">Frisco</span></a>
                         <a href=""><span class="name">Future</span></a>
                         <a href=""><span class="name">G Eazy</span></a>
@@ -115,10 +117,10 @@
                         <a href=""><span class="name">Kamakaze</span></a>
                         <a href=""><span class="name">Kano</span></a>
                         <a href=""><span class="name">Kanye West</span></a>
+			<a href=""><span class="name">Kaytranada</span></a>
                         <a href=""><span class="name">Kendrick Lamar</span></a>
                         <a href=""><span class="name">Krept and Konan</span></a>
                         <a href=""><span class="name">Lady Leshurr</span></a>
-                        <a href=""><span class="name">Lady Sovereign</span></a>
                         <a href=""><span class="name">Lethal Bizzle</span></a>
                         <a href=""><span class="name">Logan Sama</span></a>
                         <a href=""><span class="name">Logic</span></a>
@@ -141,9 +143,9 @@
                         <a href=""><span class="name">RL Grime</span></a>
                         <a href=""><span class="name">Rocks FOE</span></a>
                         <a href=""><span class="name">Rude Kid</span></a>
-                        <a href=""><span class="name">Rudimental</span></a>
                         <a href=""><span class="name">Ruff Sqwad*</span></a>
                         <a href=""><span class="name">Run the Jewels</span></a>
+			<a href=""><span class="name">Rustie</span></a>
                         <a href=""><span class="name">Schoolboy Q</span></a>
                         <a href=""><span class="name">Section Boyz</span></a>
                         <a href=""><span class="name">Sir Spyro</span></a>
@@ -156,7 +158,7 @@
                         <a href=""><span class="name">Tim Westwood</span></a>
                         <a href=""><span class="name">Tre Mission</span></a>
                         <a href=""><span class="name">Trends</span></a>
-                        <a href=""><span class="name">Wale</span></a>
+			<a href=""><span class="name">Troyboi</span></a>
                         <a href=""><span class="name">Wiley</span></a>
                         <a href=""><span class="name">Wretch 32</span></a>
                         <a href=""><span class="name">Young Thug</span></a>
